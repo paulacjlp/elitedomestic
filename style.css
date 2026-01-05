@@ -17,7 +17,7 @@ nav { background: var(--navy); padding: 20px 5%; display: flex; justify-content:
 }
 
 .logo img {
-    height: 80px; /* adjust as needed */
+    height: 40px; /* adjust as needed */
     width: auto;
 }
 
@@ -71,3 +71,4 @@ nav ul li a { color: var(--white); text-decoration: none; font-size: 14px; text-
 
 footer { background: var(--navy); color: white; padding: 40px; text-align: center; }
 .socials a { color: var(--gold); text-decoration: none; font-size: 18px; }
+
